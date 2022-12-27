@@ -1,0 +1,14 @@
+.card{
+    width: 200px;
+    margin: auto;
+    background-color: rgb(255, 190, 133);
+    box-shadow: 3px 3px 7px 2px rgba(0,0,0,.8);
+    box-sizing: border-box;
+    line-height: 1.6em;
+    border: 1px solid black;
+}
+.linkA a{
+    color:rgb(255, 219, 187);
+    font-weight: 700;
+    font-size: 8px;
+}
